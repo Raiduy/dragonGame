@@ -54,7 +54,7 @@ void firstDiscussion(int numberOfBottles) {
 	}
 
 }
-
+// This is error checking branch
 int main() {
 	int playerHP = 100, dragonHP = 100, bottles;
 	char answer;
